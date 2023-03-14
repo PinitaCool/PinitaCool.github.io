@@ -1,0 +1,65 @@
+h1{
+    text-align: center;
+    font-size: 5vw;
+    color:#B37672;
+}
+
+h2{
+    text-align: center;
+    font-size: 2vw;
+    color: #B37672;
+}
+
+figure{
+    display:inline-block;
+    border: double;
+    float: left;
+    width: 24%;
+}
+
+.centro{
+    display: inline-block;
+    float: center;
+    width: 30%;
+    border:double;
+    
+}
+
+.derecha{
+    display: inline-block;
+    float: right;
+    border:double;
+    width: 30%;
+  
+}
+
+section{
+    clear: both;
+    background-color: #A0E8A8;
+}
+
+img{
+    text-align: center;
+    width: 21em;
+}
+
+p{
+    text-align: justify;
+    font-size: 1.2vw;
+    
+}
+
+h3{
+    text-align: center;
+    font-size: 1.5vw;
+}
+
+ol{
+    font-size: 1.2vw;
+    text-align: justify;
+}
+
+ul{
+    font-size: 1.2vw;
+    text-align: justify;
+}

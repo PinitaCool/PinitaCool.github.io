@@ -1,0 +1,46 @@
+
+
+#logo1{
+    display: inline-block;
+    width: 12%;
+    float:left;
+}
+
+#logo2{
+    display: inline-block;
+    width:12%;
+    text-align: right;
+}
+
+#Titulo{
+    display:inline-block;
+    width:60%;
+    text-align: center;
+}
+
+#barra{
+    clear:both;
+}
+
+.menu{
+    display: inline-block;
+    width:16%;
+    background-color: burlywood;
+    font-size: 1.7em;
+    font-family: monospace;
+    outline-style:ridge;
+    text-align: center;
+}
+
+#marco{
+    width: 95.6%;
+    padding: 2vw;
+    height: 46em;
+    background-color: #CAFFBC;
+}
+
+#pie{
+    text-align: center;
+    border: ridge;
+    background-color: gainsboro;
+}

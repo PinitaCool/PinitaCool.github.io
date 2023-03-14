@@ -1,0 +1,68 @@
+html{
+    text-align: center;
+    background-color: #CAFFBC;
+}
+
+#cabecera{
+    background-color: #A0E8A8;
+    padding: 2vw;
+    font-size: 1.5vw;
+    font-family: monospace;
+    margin: 1.3vw;
+}
+
+h1{
+    font-size: 3vw;
+    font-family: monospace;
+    color: #B37672;
+    
+}
+
+main{
+    margin: 1.3vw;
+    background-color: #A0E8A8;
+}
+
+#ubicacion{
+    border: double;
+    padding: 2vw;
+    background-color: #C9E8A0;
+}
+
+h2{
+    font-family: monospace;
+    font-size: 1.8vw;
+    color:#B37672;
+}
+
+
+
+#panelizquierdo{
+    width:55%;
+    float: left;
+    display: inline-block;
+    border: double;
+    margin: 1.9vw;
+    background-color: #C9E8A0;
+}
+
+#panelderecho{
+    font-family: monospace;
+    background-color: #C9E8A0;
+    font-size: 4vw;
+    border: double;
+    margin: 1.9vw;
+    width: 35%;
+    float: right;
+    display: inline-block;
+}
+
+#abajo{
+    clear:both;
+    font-size: 2.2em;
+    font-family:monospace;
+}
+
+p{
+    color: #33402F;
+}
